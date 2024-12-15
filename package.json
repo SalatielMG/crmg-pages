@@ -1,0 +1,14 @@
+{
+  "name": "crmg-pages",
+  "version": "1.0.0",
+  "description": "a static pages to crmg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salatiel MG",
+  "license": "ISC",
+  "dependencies": {
+    "surge": "^0.24.6"
+  }
+}
